@@ -1,0 +1,9 @@
+<map id="ConsoleApplication1.абстрактный_класс" name="ConsoleApplication1.абстрактный_класс">
+<area shape="rect" id="Node000001" title="Класс абстрактный" alt="" coords="5,72,223,115"/>
+<area shape="rect" id="Node000002" href="$class_console_application1_1_1_xD0_xBF_xD1_x80_xD0_xBE_xD0_xB8_xD0_xB7_xD0_xB2_xD0_xBE_xD0_xB4_x66a0241bcbba3f14d537bad0f72e3f6f.html" title="Производный абстрактный класс 1. Класс наследуется от абстрактный_класс inherit абстрактный_класс" alt="" coords="271,5,493,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,65,293,46,294,51,217,71"/>
+<area shape="rect" id="Node000003" href="$class_console_application1_1_1_xD0_xBF_xD1_x80_xD0_xBE_xD0_xB8_xD0_xB7_xD0_xB2_xD0_xBE_xD0_xB4_x29834fa208168bfc253d693f3138bd42.html" title="Производный абстрактный класс 3. Класс наследуется от абстрактный_класс inherit абстрактный_класс" alt="" coords="271,72,493,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,91,270,91,270,96,238,96"/>
+<area shape="rect" id="Node000004" href="$class_console_application1_1_1_xD0_xBF_xD1_x80_xD0_xBE_xD0_xB8_xD0_xB7_xD0_xB2_xD0_xBE_xD0_xB4_xba3e45f1556ea53546180545b882fb65.html" title="Производный абстрактный класс 2. Класс наследуется от абстрактный_класс inherit абстрактный_класс" alt="" coords="271,139,493,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="217,116,294,135,293,141,216,121"/>
+</map>
